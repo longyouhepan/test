@@ -5,7 +5,7 @@ name: Daily Message
 
 on:
   schedule:
-    - cron: '56 22 * * *'
+    - cron: '01 23 * * *'
 
 jobs:
   send_message:

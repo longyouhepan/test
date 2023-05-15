@@ -11,7 +11,7 @@ def send_message_to_group(message, group_name):
 
 if __name__ == '__main__':
     # 在这里填写你要发送的消息和微信群的名称
-    message = "Hello, World!"
+    message = "测试!"
     group_name = "微信群名称"
 
     send_message_to_group(message, group_name)
